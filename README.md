@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.kaggle.com/sigmaborov"><img src="./icons/kaggle-badge.svg" alt="Kaggle" height="28"></a>
   <a href="mailto:levkokovkin@gmail.com"><img src="./icons/email-badge.svg" alt="Email" height="28"></a>
+  <a href="https://www.linkedin.com/in/lev-kokovkin-93026b412"><img src="./icons/linkedin-badge.svg" alt="LinkedIn" height="28"></a>
 </p>
 
 ---
